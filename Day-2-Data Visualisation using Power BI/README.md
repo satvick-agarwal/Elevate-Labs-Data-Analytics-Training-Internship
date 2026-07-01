@@ -112,12 +112,11 @@ Focuses on profitability analysis including:
 
 ### Executive Sales Dashboard
 
-> (screenshot/sales_dashboard.png)
+![Executive Sales Dashboard](screenshots/sales_dashboard.png)
 
 ### Executive Profit Dashboard
 
-> (screenshots/profit_dashboard.png)
-
+![Executive Profit Dashboard](screenshots/profit_dashboard.png)
 ---
 
 ## 🎯 Skills Demonstrated
